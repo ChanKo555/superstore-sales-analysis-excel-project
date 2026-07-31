@@ -4,7 +4,7 @@ This project analyzes Superstore sales dataset from Kaggle using Microsoft Excel
 
 ## Dataset Used
 Superstore Sales Dataset 
-~10,000 records 
+~10,000 records:
 https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
 
 ## Business Questions 
