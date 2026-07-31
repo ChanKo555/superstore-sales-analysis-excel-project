@@ -3,8 +3,10 @@
 This project analyzes Superstore sales dataset from Kaggle using Microsoft Excel to identify sales and profit trends and key profit drivers. The project demonstrates data cleaning, exploratory data analysis (EDA), dashboard development, and gives business recommendations. 
 
 ## Dataset Used
-Superstore Sales Dataset 
-~10,000 records:
+Superstore Sales Dataset from Kaggle
+
+~10,000 records
+
 https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
 
 ## Business Questions 
@@ -26,5 +28,7 @@ https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
 
 ## Files 
 Workbook.xlsx – Complete Excel workbook containing data cleaning, EDA, PivotTables, charts, and dashboards. 
+
 Documentation.pdf – Project methodology, business questions, and key insights. 
+
 Raw Data.xlsx – Original dataset. 
